@@ -1,0 +1,15 @@
+c:\users\dmcmillan\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+c:\users\dmcmillan\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form1.resources
+c:\users\dmcmillan\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+c:\users\dmcmillan\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbproj.GenerateResource.Cache
+c:\users\dmcmillan\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe.licenses
+c:\users\dmcmillan\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+c:\users\dmcmillan\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+c:\users\dmcmillan\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+c:\users\dmcmillan\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\TeeChart.dll
+c:\users\dmcmillan\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\TeeChart.xml
+c:\users\dmcmillan\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+c:\users\dmcmillan\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+c:\users\dmcmillan\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+C:\Users\dmcmillan\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbprojResolveAssemblyReference.cache
+C:\Users\dmcmillan\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\LIV-IV Data Analysis.exe.config
