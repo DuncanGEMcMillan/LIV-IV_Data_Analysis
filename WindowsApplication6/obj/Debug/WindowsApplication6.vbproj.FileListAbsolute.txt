@@ -13,3 +13,4 @@ c:\users\dmcmillan\documents\visual studio 2013\Projects\WindowsApplication6\Win
 c:\users\dmcmillan\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
 C:\Users\dmcmillan\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbprojResolveAssemblyReference.cache
 C:\Users\dmcmillan\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\LIV-IV Data Analysis.exe.config
+C:\Users\dmcmillan\Documents\GitHub\LIV-IV_Data_Analysis\WindowsApplication6\bin\Debug\LIV-IV Data Analysis.exe.config
